@@ -18,7 +18,7 @@
 #### 1. Clone atau download source code
 
 ```sh
-git clone https://github.com/auizadi/website-rts-studpen.git
+git clone https://github.com/auizadi/ujikom-junior-webDeveloper.git
 ```
 
 #### 2. Masuk ke direktori proyek
